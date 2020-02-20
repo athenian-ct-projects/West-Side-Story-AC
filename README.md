@@ -1,9 +1,7 @@
-# Assignment Description
+# West Side Story Line-learning Game
 
-written by 
+written by AC '23
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/West-Side-Story-AC)](https://repl.it/github/athenian-ct-projects/West-Side-Story-AC)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* This is a line learning game for West Side Story. Be sure to obtain the game board prior to playing!
